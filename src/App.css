@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+
+.input{
+  border-style: groove;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-bottom: groove;
+  margin-top: 40px;
+  background: lightcyan;
+}
+
+/* .btn{
+  margin-top: 40px;
+  background: grey;
+  border-style: groove;
+} */
